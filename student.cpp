@@ -4,8 +4,10 @@
 class student
 {
    // int height;
-    int height_1;
-    int weight;
+    int height_2;
+    int weight3;
+    int fukeda;
+    int fukeda_007;
     float name;
     char sex_hello;
 };
