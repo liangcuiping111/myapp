@@ -4,6 +4,7 @@
 class student
 {
     int height;
+    int weight;
     float name;
     char sex;
 };
