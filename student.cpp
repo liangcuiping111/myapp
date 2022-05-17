@@ -7,5 +7,5 @@ class student
     int height_1;
     int weight;
     float name;
-    char sex;
+    char sex_hello;
 };
