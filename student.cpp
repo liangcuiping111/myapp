@@ -7,6 +7,7 @@ class student
     int height_2;
     int weight3;
     int fukeda;
+    int fukeda2;
     float name;
     char sex;
 };
